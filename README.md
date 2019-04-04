@@ -5,5 +5,4 @@ The Portuguese Bank had run a telemarketing campaign in the past, making sales c
 
 Goal achieved:
 
-•	Reduce the marketing cost by X% and acquire Y% of the prospects (compared to random calling), where X and Y are to be maximized
-•	Present the financial benefit of this project to the marketing team
+•	Reduced the marketing cost by 11.4% and acquire while maintaining 97.6% sales.
